@@ -11,7 +11,7 @@ A página está hospedada no GitHub Pages e pode ser acessada através do link a
 
 ## 📖 Sobre o Projeto
 
-Este é um projeto de uma página de links (conhecida como "link in bio") criada para centralizar os principais contatos e portfólios de Emily Augusto de forma elegante e acessível. A página foi desenvolvida para ser visualmente agradável e totalmente responsiva, adaptando-se perfeitamente a dispositivos móveis e desktops.
+Este é um projeto de uma página de links (conhecida como "link in bio") criada para centralizar os principais contatos e meus portfólios de forma elegante e acessível. A página foi desenvolvida para ser visualmente agradável e totalmente responsiva, adaptando-se perfeitamente a dispositivos móveis e desktops.
 
 O objetivo é oferecer uma experiência de usuário limpa e direta, ideal para ser usada em perfis de redes sociais como o Instagram.
 
@@ -21,7 +21,6 @@ O objetivo é oferecer uma experiência de usuário limpa e direta, ideal para s
 * **Animações Suaves:** Efeito de "fade-in" nos elementos ao carregar a página para uma primeira impressão mais dinâmica.
 * **Botão de Contato Flutuante:** Acesso rápido para o WhatsApp com uma animação de "pulso" para chamar a atenção.
 * **Responsividade:** Layout otimizado para uma experiência de visualização perfeita em celulares, tablets e desktops.
-* **Ícone Personalizado (Favicon):** Para fácil identificação da página na aba do navegador.
 
 ## 🛠️ Tecnologias Utilizadas
 
