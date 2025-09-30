@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { selector: '.profile-header', delay: 100 },
         { selector: '.link-card-1', delay: 250 },
         { selector: '.link-card-2', delay: 400 },
+        { selector: '.link-card-3', delay: 500 },
         { selector: '.floating-button', delay: 600 }
     ];
 
@@ -21,3 +22,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
+
